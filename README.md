@@ -1,7 +1,5 @@
 # air-quality-low-power-project
 
-*This project is part of the low-power network course at the Ecole Centrale in Nantes.*
-
 > The aim of this project : 
 - To propose LoRa (Long range) communication between two Heltec WiFi LoRa cards (ESP32) 
 - Measure the current consumption (mA) of this type of communication
